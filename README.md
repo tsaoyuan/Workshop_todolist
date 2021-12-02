@@ -18,7 +18,7 @@
     - 取得 input 輸入的文字
     - 按下 + 可以新增任務
     - 新增的任務也須具有 `標記完成` / `刪除`功能
-4. (加分題) 將 To Do List 用 localStorage 改寫
+4. 將 To Do List 用 localStorage 改寫
     - 所有新增修改刪除都需要更新 localStorage
     - localStorage 的用法可以參考 [localStorage 文件](https://developer.mozilla.org/zh-TW/docs/Web/API/Window/localStorage)
 
